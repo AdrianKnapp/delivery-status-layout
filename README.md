@@ -1,2 +1,2 @@
 ### Try yourself
-https://adrianknapp.github.io/DeliveryStatusLayout/
+https://adrianknapp.github.io/delivery-status-layout/
